@@ -1,5 +1,7 @@
 # react-native-android-open-settings
 
+This Reposit Power made fork simply swaps `implementation` for `compile` in android/build.gradle as the former was causing issues with older versions of gradle.
+
 Open android settings from your react native app
 
 ## Install
